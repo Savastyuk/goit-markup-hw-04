@@ -126,7 +126,7 @@ body {
     gap: 40px;
 }
 
-.header-menu-item::after{
+.header-menu::after{
     content: '';
     position: absolute;
     left: 0;
