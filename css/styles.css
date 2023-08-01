@@ -447,6 +447,10 @@ body {
     gap: 16px;
 }
 
+.social-media-link:hover, .social-media-link:focus{
+    background-color: #31d0aa;
+}
+
 .footer-item-text {
     color: var(--cloud);
     font-size: 16px;
