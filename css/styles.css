@@ -542,7 +542,11 @@ body {
 }
 
 .portfolio-link:hover .portfolio-list-text{
-    transform: translateY(0);
+    transform: translateY(0%);
+}
+
+.portfolio-link:focus .portfolio-list-text{
+    transform: translateY(0%);
 }
 
 .portfolio-list-text{
