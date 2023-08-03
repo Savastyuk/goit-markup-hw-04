@@ -134,8 +134,6 @@ body {
     height: 4px;
     background-color: #404bbf;
     border-radius: 2px;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
 }
 
 .header-menu-link {
@@ -147,6 +145,7 @@ body {
     padding-top: 24px;
     padding-bottom: 24px;
     position: relative;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-link-main{
